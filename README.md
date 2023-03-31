@@ -40,7 +40,6 @@ Prepare a report for a bank’s loan division. You’ll need to find out if a cu
 You're an analyst at Crankshaft List. Hundreds of free advertisements for vehicles are published on your site every day. You need to study data collected over the last few years and determine which factors influence the price of a vehicle.
 
 **Highlights:**
- * Determine the upper limits of outliers
  * Exploratory Data Analysis: Checking data quality, Evaluating and modifying data structures, Analyzing categorical data, Looking for relationships and patterns, Summarizing data
 
 ## [4. Telecom Company Plans]()
