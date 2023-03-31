@@ -14,7 +14,7 @@ Following are the highlights of the projects:
 | --- | --- |
 | [1. Yandex Music Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/YandexMusicProject) | [9. Oil Well Region Model] |
 | [2. Bank Loan Customers Report](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/BanksLoanCustomerReport)	| [10. Gold Recovery Model] |
-| [3. Car Sales Ads]	| [11. Insurance Company Model] |
+| [3. Car Sales Ads](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/CarSalesAdsense)	| [11. Insurance Company Model] |
 | [4. Telecom Company Plans] | [12. ]  |
 | [5. Video Game Analysis] | [13. ] |
 | [6. Ride Sharing Analysis] | [14. ] |
@@ -36,7 +36,7 @@ Prepare a report for a bank’s loan division. You’ll need to find out if a cu
  * Defaults were found to be the highest in low income, unmarried people.
  * No relationship was found between family with kids and loan defaults.
 
-## [3. Car Sales Ads]()
+## [3. Car Sales Ads](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/CarSalesAdsense)
 You're an analyst at Crankshaft List. Hundreds of free advertisements for vehicles are published on your site every day. You need to study data collected over the last few years and determine which factors influence the price of a vehicle.
 
 **Highlights:**
