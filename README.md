@@ -12,12 +12,12 @@ Following are the highlights of the projects:
 
 |Projects (1-8)|Projects (9-16)|
 | --- | --- |
-| [1. Yandex Music Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/YandexMusicProject) | 9. Oil Well Region Model |
-| 2. Bank Loan Customers: Likelihood of Default	| 10. Gold Recovery Model |
-| 3. Car Sales Market Value Prediction	| 11. Insurance Company Model |
-| 4. Telecom Company Plans | 12.  |
-| 5. Video Game Analysis | 13.  |
-| 6. Ride Sharing Analysis | 14.  |
-| 7. Mobile Plan | 15.  |
-| 8. Bank Customer Churn | 16.  |
+| [1. Yandex Music Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/YandexMusicProject) | 9. [Oil Well Region Model] |
+| [2. Bank Loan Customers Report] 	| 10. [Gold Recovery Model] |
+| [3. Car Sales Market Value Prediction]	| 11. [Insurance Company Model] |
+| [4. Telecom Company Plans] | 12.  |
+| [5. Video Game Analysis] | 13.  |
+| [6. Ride Sharing Analysis] | 14.  |
+| [7. Mobile Plan] | 15.  |
+| [8. Bank Customer Churn] | 16.  |
 
