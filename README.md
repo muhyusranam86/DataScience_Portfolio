@@ -13,7 +13,7 @@ Following are the highlights of the projects:
 |Projects (1-8)|Projects (9-16)|
 | --- | --- |
 | [1. Yandex Music Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/YandexMusicProject) | [9. Oil Well Region Model] |
-| [2. Bank Loan Customers Report] 	| [10. Gold Recovery Model] |
+| [2. Bank Loan Customers Report](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/BanksLoanCustomerReport)	| [10. Gold Recovery Model] |
 | [3. Car Sales Ads]	| [11. Insurance Company Model] |
 | [4. Telecom Company Plans] | [12. ]  |
 | [5. Video Game Analysis] | [13. ] |
@@ -29,7 +29,7 @@ Comparing musical preferences in the cities of Springfield and Shelbyville. Stud
 **Highlights:**
  * Assessing data quality and statistical hypothesis testing.
 
-## [2. Bank Loan Customers Report]()
+## [2. Bank Loan Customers Report](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/BanksLoanCustomerReport)
 Prepare a report for a bank’s loan division. You’ll need to find out if a customer’s marital status and number of children have an impact on whether they will default on a loan. The bank already has some data on customers’ credit worthiness. Your report will be considered when building a credit score for a potential customer. A credit score is used to evaluate the ability of a potential borrower to repay their loan.
 
 **Highlights:**
