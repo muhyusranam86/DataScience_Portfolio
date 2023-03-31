@@ -14,7 +14,7 @@ Following are the highlights of the projects:
 | --- | --- |
 | [1. Yandex Music Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/YandexMusicProject) | [9. Oil Well Region Model] |
 | [2. Bank Loan Customers Report] 	| [10. Gold Recovery Model] |
-| [3. Car Sales Market Value Prediction]	| [11. Insurance Company Model] |
+| [3. Car Sales Ads]	| [11. Insurance Company Model] |
 | [4. Telecom Company Plans] | [12. ]  |
 | [5. Video Game Analysis] | [13. ] |
 | [6. Ride Sharing Analysis] | [14. ] |
@@ -36,14 +36,12 @@ Prepare a report for a bank’s loan division. You’ll need to find out if a cu
  * Defaults were found to be the highest in low income, unmarried people.
  * No relationship was found between family with kids and loan defaults.
 
-## [3. Car Sales Market Value Prediction]()
+## [3. Car Sales Ads]()
 You're an analyst at Crankshaft List. Hundreds of free advertisements for vehicles are published on your site every day. You need to study data collected over the last few years and determine which factors influence the price of a vehicle.
 
 **Highlights:**
- * Used ordinal encoding on features.
- * Evaluated regression models, gradient boosting models and tuned them with hyperparameters.
-
-**Metrics:** Lowest RMSE of 1628.xx using XGBoost with GridSearchCV
+ * Determine the upper limits of outliers
+ * Exploratory Data Analysis: Checking data quality, Evaluating and modifying data structures, Analyzing categorical data, Looking for relationships and patterns, Summarizing data
 
 ## [4. Telecom Company Plans]()
 You work as an analyst for the telecom operator Megaline. The company offers its clients two prepaid plans, Surf and Ultimate. The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget. You are going to carry out a preliminary analysis of the plans based on a relatively small client selection. You'll have the data on 500 Megaline clients: who the clients are, where they're from, which plan they use, and the number of calls they made and text messages they sent in 2018. Your job is to analyze clients' behavior and determine which prepaid plan brings in more revenue.
