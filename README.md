@@ -12,14 +12,14 @@ Following are the highlights of the projects:
 
 |Projects (1-8)|Projects (9-16)|
 | --- | --- |
-| [1. Yandex Music Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/YandexMusicProject) | 9. [Oil Well Region Model] |
-| [2. Bank Loan Customers Report] 	| 10. [Gold Recovery Model] |
-| [3. Car Sales Market Value Prediction]	| 11. [Insurance Company Model] |
-| [4. Telecom Company Plans] | 12.  |
-| [5. Video Game Analysis] | 13.  |
-| [6. Ride Sharing Analysis] | 14.  |
-| [7. Mobile Plan] | 15.  |
-| [8. Bank Customer Churn] | 16.  |
+| [1. Yandex Music Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/YandexMusicProject) | [9. Oil Well Region Model] |
+| [2. Bank Loan Customers Report] 	| [10. Gold Recovery Model] |
+| [3. Car Sales Market Value Prediction]	| [11. Insurance Company Model] |
+| [4. Telecom Company Plans] | [12. ]  |
+| [5. Video Game Analysis] | [13. ] |
+| [6. Ride Sharing Analysis] | [14. ] |
+| [7. Mobile Plan] | [15. ] |
+| [8. Bank Customer Churn] | [16. ] |
 
 
 # B. Details on My Data Science projects
@@ -86,7 +86,7 @@ Mobile carrier Megaline has found out that many of their subscribers use legacy 
 
 **Metrics:** F1 score: 0.63 for Churn prediction.
 
-## 9. [Oil Well Region Model]()
+## [9. Oil Well Region Model]()
 You work for the OilyGiant mining company. Your task is to find the best place for a new well. Steps to choose the location: 
 1) Collect the oil well parameters in the selected region: oil quality and volume of reserves. 
 2) Build a model for predicting the volume of reserves in the new wells; 
@@ -98,7 +98,7 @@ You have data on oil samples from three regions. Parameters of each oil well in 
  * Scaled the data using StandardScaler().
  * Bootstrapping was done with 1000 samples. Region with best R2 score and best confidence interval was selected.
 
-## 10. [Gold Recovery Model]()
+## [10. Gold Recovery Model]()
 Build a machine learning model to predict the amount of gold recovered from the gold ore for the purpose of optimizing production and eliminating unprofitable parameters. Various Regression models were evaluated.
 
 **Metrics:** SMAPE of 9.5% achieved for RidgeRegression
