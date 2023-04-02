@@ -3,19 +3,19 @@ I am a student of the Data Science Professional Training program at Practicum In
 
 Following are the highlights of the projects:
 
-* **Libraries used:** pandas, matplotlib.pyplot, seaborn, numpy, scipy, re, math, warnings, sklearn, scikitplot, datetime, collections, xgb, lightgbm, catboost, tqdm.auto, spacy, torch, transformers, nltk.
+* **Libraries used:** pandas, matplotlib.pyplot, seaborn, numpy, scipy, re, math, warnings, sklearn, scikitplot, datetime.
 
 * **Machine Learning Models Evaluated:**
 
-  * **Classification Models:** DecisionTreeClassifier, RandomForestClassifier, AdaBoostClassifier, XGBClassifier, CatBoostClassifier, LGBMClassifier .
-  * **Regression Models:** LinearRegressor, DecisionTreeRegressor, RandomForestRegressor, Ridge, XGBRegressor, LGBMRegressor, CatBoostRegressor.
+  * **Classification Models:** DecisionTreeClassifier, RandomForestClassifier.
+  * **Regression Models:** LinearRegressor, DecisionTreeRegressor, RandomForestRegressor.
 
 |Projects (1-8)|Projects (9-16)|
 | --- | --- |
 | [1. Yandex Music Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/YandexMusicProject) | [9. Oil Well Region Model] |
 | [2. Bank Loan Customers Report](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/BanksLoanCustomerReport)	| [10. Gold Recovery Model] |
 | [3. Car Sales Ads](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/CarSalesAdsense)	| [11. Insurance Company Model] |
-| [4. Telecom Company Plans] | [12. ]  |
+| [4. Telecom Company Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/TelecomCompanyPlans) | [12. ]  |
 | [5. Video Game Analysis] | [13. ] |
 | [6. Ride Sharing Analysis] | [14. ] |
 | [7. Mobile Plan] | [15. ] |
@@ -42,7 +42,7 @@ You're an analyst at Crankshaft List. Hundreds of free advertisements for vehicl
 **Highlights:**
  * Exploratory Data Analysis: Checking data quality, Evaluating and modifying data structures, Analyzing categorical data, Looking for relationships and patterns, Summarizing data
 
-## [4. Telecom Company Plans]()
+## [4. Telecom Company Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/TelecomCompanyPlans)
 You work as an analyst for the telecom operator Megaline. The company offers its clients two prepaid plans, Surf and Ultimate. The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget. You are going to carry out a preliminary analysis of the plans based on a relatively small client selection. You'll have the data on 500 Megaline clients: who the clients are, where they're from, which plan they use, and the number of calls they made and text messages they sent in 2018. Your job is to analyze clients' behavior and determine which prepaid plan brings in more revenue.
 
 **Highlights:**
