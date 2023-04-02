@@ -3,7 +3,7 @@ I am a student of the Data Science Professional Training program at Practicum In
 
 Following are the highlights of the projects:
 
-* **Libraries used:** pandas, matplotlib.pyplot, seaborn, numpy, scipy, re, math, warnings, sklearn, scikitplot, datetime.
+* **Libraries used:** pandas, matplotlib.pyplot, seaborn, numpy, scipy, re, math, warnings, sklearn, scikitplot, datetime, plotly.
 
 * **Machine Learning Models Evaluated:**
 
@@ -16,7 +16,7 @@ Following are the highlights of the projects:
 | [2. Bank Loan Customers Report](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/BanksLoanCustomerReport)	| [10. Gold Recovery Model] |
 | [3. Car Sales Ads](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/CarSalesAdsense)	| [11. Insurance Company Model] |
 | [4. Telecom Company Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/TelecomCompanyPlans) | [12. ]  |
-| [5. Video Game Analysis] | [13. ] |
+| [5. Video Game Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/VideoGameAnalysis) | [13. ] |
 | [6. Ride Sharing Analysis] | [14. ] |
 | [7. Mobile Plan] | [15. ] |
 | [8. Bank Customer Churn] | [16. ] |
@@ -51,7 +51,7 @@ You work as an analyst for the telecom operator Megaline. The company offers its
    * The average profit from users of Ultimate and Surf calling plans differs.
    * The average profit from users in NY-NJ area is different from that of the users from other regions.
 
-## [5. Video Game Analysis]()
+## [5. Video Game Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/VideoGameAnalysis)
 Analysis of video game market to find patterns that determine a video game’s success. Identify patterns in historical game sales data, analyze metrics for each video game platform, and conduct statistical hypothesis testing to find potential big winners and plan advertising campaigns.
 
 **Highlights:**
