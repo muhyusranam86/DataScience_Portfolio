@@ -17,7 +17,7 @@ Following are the highlights of the projects:
 | [3. Car Sales Ads](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/CarSalesAdsense)	| [11. Insurance Company Model] |
 | [4. Telecom Company Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/TelecomCompanyPlans) | [12. ]  |
 | [5. Video Game Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/VideoGameAnalysis) | [13. ] |
-| [6. Ride Sharing Analysis] | [14. ] |
+| [6. Ride Sharing Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/RideSharingAnalysis) | [14. ] |
 | [7. Mobile Plan] | [15. ] |
 | [8. Bank Customer Churn] | [16. ] |
 
@@ -58,7 +58,7 @@ Analysis of video game market to find patterns that determine a video game’s s
  * Top-5 genres and top-5 platforms were identified.
  * Hypothesis on user ratings on genres, and user ratings on platforms were tested.
 
-## [6. Ride Sharing Analysis]()
+## [6. Ride Sharing Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/RideSharingAnalysis)
 Exploratory data analysis for a ride share app. Understand passenger preferences and the impact of external factors on rides. Study a database, analyze data from competitors, and test hypothesis about the impact of weather on ride frequency. Test the hypothesis: "The average duration of rides from the Loop to O'Hare International Airport changes on rainy Saturdays."
 
 **Highlights:**
