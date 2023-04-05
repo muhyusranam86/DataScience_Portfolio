@@ -12,14 +12,14 @@ Following are the highlights of the projects:
 
 |Projects (1-8)|Projects (9-16)|
 | --- | --- |
-| [1. Yandex Music Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/YandexMusicProject) | [9. Oil Well Region Model] |
+| [1. Yandex Music Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/YandexMusicProject) | [9. Oil Well Region Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/OilWellRegionModel) |
 | [2. Bank Loan Customers Report](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/BanksLoanCustomerReport)	| [10. Gold Recovery Model] |
 | [3. Car Sales Ads](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/CarSalesAdsense)	| [11. Insurance Company Model] |
 | [4. Telecom Company Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/TelecomCompanyPlans) | [12. ]  |
 | [5. Video Game Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/VideoGameAnalysis) | [13. ] |
 | [6. Ride Sharing Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/RideSharingAnalysis) | [14. ] |
 | [7. Mobile Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/MobilePlans) | [15. ] |
-| [8. Bank Customer Churn] | [16. ] |
+| [8. Bank Customer Churn](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/BankCustomerChurn) | [16. ] |
 
 
 # B. Details on My Data Science projects
@@ -73,7 +73,7 @@ Mobile carrier Megaline has found out that many of their subscribers use legacy 
 
 **Metrics:** Achieved Accuracy score of 79% using RandomForestRegression.
  
-## [8. Bank Customer Churn]()
+## [8. Bank Customer Churn](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/BankCustomerChurn)
 Mobile carrier Megaline has found out that many of their subscribers use legacy plans. They want to develop a model that would analyze subscribers' behavior and recommend one of Megaline's newer plans: Smart or Ultra. You have access to behavior data about subscribers who have already switched to the new plans (from the project for the Statistical Data Analysis course). For this classification task, you need to develop a model that will pick the right plan. Since you’ve already performed the data preprocessing step, you can move straight to creating the model. Develop a model with the highest possible accuracy. In this project, the threshold for accuracy is 0.75. Check the accuracy using the test dataset.
 
 **Highlights:**
@@ -81,9 +81,9 @@ Mobile carrier Megaline has found out that many of their subscribers use legacy 
  * Evaluated classification models with upsampling and downsampling, and balanced option.
  * Classification Models used: DecisionTreeClassifier, RandomForestClassifier, LogisticRegression.
 
-**Metrics:** F1 score: 0.63 for Churn prediction.
+**Metrics:** F1 score: 0.62, akurasi_score: 0,81, auc_roc: 0.77 for Churn prediction.
 
-## [9. Oil Well Region Model]()
+## [9. Oil Well Region Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/OilWellRegionModel)
 You work for the OilyGiant mining company. Your task is to find the best place for a new well. Steps to choose the location: 
 1) Collect the oil well parameters in the selected region: oil quality and volume of reserves. 
 2) Build a model for predicting the volume of reserves in the new wells; 
