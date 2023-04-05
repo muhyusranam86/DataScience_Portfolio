@@ -19,7 +19,13 @@ Your task is to find the best place for a new well. Build a model that will help
 * Provide findings: suggest a region for development of oil wells and justify the choice.
 
 ## Data description
-Geological exploration data for the three regions are stored in files: geo_data_0.csv. download dataset geo_data_1.csv. download dataset geo_data_2.csv. download dataset id — unique oil well identifier f0, f1, f2 — three features of points (their specific meaning is unimportant, but the features themselves are significant) product — volume of reserves in the oil well (thousand barrels).
+Geological exploration data for the three regions are stored in files: 
+* `geo_data_0.csv`. download dataset 
+* `geo_data_1.csv`. download dataset 
+* `geo_data_2.csv`. download dataset 
+* `id` — unique oil well identifier 
+* `f0, f1, f2` — three features of points (their specific meaning is unimportant, but the features themselves are significant) 
+* `product` — volume of reserves in the oil well (thousand barrels).
 
 ## Conditions:
 * Only linear regression is suitable for model training (the rest are not sufficiently predictable).
