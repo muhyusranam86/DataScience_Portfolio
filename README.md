@@ -3,7 +3,7 @@ I am a student of the Data Science Professional Training program at Practicum In
 
 Following are the highlights of the projects:
 
-* **Libraries used:** pandas, matplotlib.pyplot, seaborn, numpy, scipy, re, math, warnings, sklearn, scikitplot, datetime, plotly.
+* **Libraries used:** pandas, matplotlib.pyplot, seaborn, numpy, scipy, re, math, warnings, sklearn, scikitplot, datetime, plotly, xgb, lightgbm, catboost.
 
 * **Machine Learning Models Evaluated:**
 
@@ -15,7 +15,7 @@ Following are the highlights of the projects:
 | [1. Yandex Music Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/YandexMusicProject) | [9. Oil Well Region Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/OilWellRegionModel) |
 | [2. Bank Loan Customers Report](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/BanksLoanCustomerReport)	| [10. Gold Recovery Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/GoldRecoveryModel) |
 | [3. Car Sales Ads](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/CarSalesAdsense)	| [11. Insurance Company Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/InsuranceCompany) |
-| [4. Telecom Company Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/TelecomCompanyPlans) | [12. ]  |
+| [4. Telecom Company Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/TelecomCompanyPlans) | [12. Car Sales Market Value]  |
 | [5. Video Game Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/VideoGameAnalysis) | [13. ] |
 | [6. Ride Sharing Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/RideSharingAnalysis) | [14. ] |
 | [7. Mobile Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/MobilePlans) | [15. ] |
@@ -107,3 +107,12 @@ For insurance benefits, develop a data transforming algorithm for data obfuscati
 * Scaled the features using StandardScaler().
 * Implemented Data masking using random transform matrix.
 * Evaluated models on unchanged and masked data to ensure the model quality remained same.
+
+## [12. Car Sales Market Value]()
+Determine the market value of a used car using historical car data. Identify the quality and speed of prediction for various models.
+
+**Highlights:**
+* Used ordinal encoding on features.
+* Evaluated regression models, gradient boosting models and tuned them with hyperparameters.
+
+**Metrics:** Lowest RMSE of 1628.xx using XGBoost with GridSearchCV
