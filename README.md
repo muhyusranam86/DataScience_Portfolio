@@ -16,7 +16,8 @@ Following are the highlights of the projects:
 | [2. Bank Loan Customers Report](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/BanksLoanCustomerReport)	| [10. Gold Recovery Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/GoldRecoveryModel) |
 | [3. Car Sales Ads](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/CarSalesAdsense)	| [11. Insurance Company Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/InsuranceCompany) |
 | [4. Telecom Company Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/TelecomCompanyPlans) | [12. Car Sales Market Value](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/CarSalesMarketValue) |
-| [5. Video Game Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/VideoGameAnalysis) | [13. ] |
+| [5. Video Game Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/VideoGameAnalysis) | [13. Taxi Orders Forecast]
+() |
 | [6. Ride Sharing Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/RideSharingAnalysis) | [14. ] |
 | [7. Mobile Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/MobilePlans) | [15. ] |
 | [8. Bank Customer Churn](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/BankCustomerChurn) | [16. ] |
@@ -116,3 +117,11 @@ Determine the market value of a used car using historical car data. Identify the
 * Evaluated regression models, gradient boosting models and tuned them with hyperparameters.
 
 **Metrics:** Lowest RMSE of 1628.xx using XGBoost with GridSearchCV
+
+## [13. Taxi Orders Hourly Forecast]()
+Time Series project. Use historical data on taxi orders at airports to create a model that predicts the number of taxi orders for the next hour.
+
+**Highlights:**
+* Checked for Trends and Seasonality in the data. Various regression models were used.
+
+**Metrics:** Minimum RMSE on test dataset was 0.42 using LightGBMRegressor with cross-validation.
