@@ -123,4 +123,4 @@ Time Series project. Use historical data on taxi orders at airports to create a 
 **Highlights:**
 * Checked for Trends and Seasonality in the data. Various regression models were used.
 
-**Metrics:** Minimum RMSE on test dataset was 42.XX using CatBoostRegressor.
+**Metrics:** Minimum RMSE on test dataset was 42.XX using CatBoostRegressor, lower than the rmse_test threshold of 48.
