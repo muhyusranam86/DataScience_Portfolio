@@ -23,7 +23,7 @@ Following are the highlights of the projects:
 
 
 # B. Details on My Data Science projects
-## [1. Yandex Music Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/YandexMusicProject)
+## [1. Yandex Music Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint01_YandexMusicProject)
 Comparing musical preferences in the cities of Springfield and Shelbyville. Studying actual Y.Music data to test the hypotheses below and compare user behavior in these two cities.
 
 **Highlights:**
