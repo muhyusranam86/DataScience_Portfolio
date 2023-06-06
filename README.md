@@ -3,12 +3,12 @@ I am a student of the Data Science Professional Training program at Practicum In
 
 Following are the highlights of the projects:
 
-* **Libraries used:** pandas, matplotlib.pyplot, seaborn, numpy, scipy, re, math, warnings, sklearn, scikitplot, datetime, plotly, xgb, lightgbm, catboost.
+* **Libraries used:** pandas, matplotlib.pyplot, seaborn, numpy, scipy, re, math, warnings, sklearn, scikitplot, datetime, plotly, xgb, lightgbm, catboost, tqdm.auto, spacy, torch, transformers, nltk.
 
 * **Machine Learning Models Evaluated:**
 
-  * **Classification Models:** DecisionTreeClassifier, RandomForestClassifier.
-  * **Regression Models:** LinearRegressor, DecisionTreeRegressor, RandomForestRegressor.
+  * **Classification Models:** DecisionTreeClassifier, RandomForestClassifier, XGBClassifier, CatBoostClassifier, LGBMClassifier. 
+  * **Regression Models:** LinearRegressor, DecisionTreeRegressor, RandomForestRegressor, Ridge, XGBRegressor, LGBMRegressor, CatBoostRegressor.
 
 |Projects (1-8)|Projects (9-16)|
 | --- | --- |
