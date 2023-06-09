@@ -125,7 +125,7 @@ Time Series project. Use historical data on taxi orders at airports to create a 
 
 **Metrics:** Minimum RMSE on test dataset was 42.XX using CatBoostRegressor, lower than the rmse_test threshold of 48.
 
-## [14. Movie Reviews Sentiment Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint14_MovieReviewsAnalysis)
+## [14. Movie Reviews Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint14_MovieReviewsAnalysis)
 
 Build a machine learning model to automatically detect negative reviews for a system used to filter and categorize movie reviews. Used the dataset of IMDB movie reviews with polarity labelling to build a model for classifying positive and negative reviews.
 
