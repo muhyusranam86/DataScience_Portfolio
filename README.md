@@ -14,11 +14,11 @@ Following are the highlights of the projects:
 | --- | --- |
 | [1. Yandex Music Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint01_YandexMusicProject) | [9. Oil Well Region Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/OilWellRegionModel) |
 | [2. Bank Loan Customers Report](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint02_BanksLoanCustomerReport)	| [10. Gold Recovery Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/GoldRecoveryModel) |
-| [3. Car Sales Ads](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/CarSalesAdsense)	| [11. Insurance Company Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/InsuranceCompany) |
+| [3. Car Sales Ads](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint03_CarSalesAdsense)	| [11. Insurance Company Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/InsuranceCompany) |
 | [4. Telecom Company Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/TelecomCompanyPlans) | [12. Car Sales Market Value](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/CarSalesMarketValue) |
 | [5. Video Game Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/VideoGameAnalysis) | [13. Taxi Orders Forecast](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/TaxiOrdersForecast) |
-| [6. Ride Sharing Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/RideSharingAnalysis) | [14. ] |
-| [7. Mobile Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/MobilePlans) | [15. ] |
+| [6. Ride Sharing Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/RideSharingAnalysis) | [14. Movie Reviews Sentiment Analysis]() |
+| [7. Mobile Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/MobilePlans) | [15. Computer Vision Age Detection]() |
 | [8. Bank Customer Churn](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/BankCustomerChurn) | [16. ] |
 
 
@@ -36,7 +36,7 @@ Prepare a report for a bank’s loan division. You’ll need to find out if a cu
  * Defaults were found to be the highest in low income, unmarried people.
  * No relationship was found between family with kids and loan defaults.
 
-## [3. Car Sales Ads](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/CarSalesAdsense)
+## [3. Car Sales Ads](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint03_CarSalesAdsense)
 You're an analyst at Crankshaft List. Hundreds of free advertisements for vehicles are published on your site every day. You need to study data collected over the last few years and determine which factors influence the price of a vehicle.
 
 **Highlights:**
@@ -124,3 +124,24 @@ Time Series project. Use historical data on taxi orders at airports to create a 
 * Checked for Trends and Seasonality in the data. Various regression models were used.
 
 **Metrics:** Minimum RMSE on test dataset was 42.XX using CatBoostRegressor, lower than the rmse_test threshold of 48.
+
+## [14. Movie Reviews Sentiment Analysis]()
+
+Build a machine learning model to automatically detect negative reviews for a system used to filter and categorize movie reviews. Used the dataset of IMDB movie reviews with polarity labelling to build a model for classifying positive and negative reviews.
+
+**Highlights:** 
+* Key Libraries used: TF-IDF, NLTK, spaCy, transformers, Bert, tqdm. 
+
+**Metrics:** 
+- F1 score of 0.88 with TF-IDF, LogisticRegression and also with NLTK, TF-IDF, LogisticRegression.
+- BERT classification classified the text very strongly as compared to any other Model.
+
+## [15. Computer Vision Age Detection]()
+
+Build Machine Learning models for computer vision, for automatic verification of the age of a customer at a checkout counter in the Supermarket . Cameras at the checkout counter are triggered to take the customer photo when customer is buying alcohol.  Train, evaluate and identify the best model. 
+
+**Highlights:** 
+- Key Libraries used: PIL, tensorflow. 
+- I ran the training model for 5 epochs. Images were augmented for horizontal flipping.
+
+**Metrics:** The final test MAE was 7.3382 at epoch #5. Best MAE was at epoch #4, MAE of 6.3124
