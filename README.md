@@ -51,21 +51,21 @@ You work as an analyst for the telecom operator Megaline. The company offers its
    * The average profit from users of Ultimate and Surf calling plans differs.
    * The average profit from users in NY-NJ area is different from that of the users from other regions.
 
-## [5. Video Game Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/VideoGameAnalysis)
+## [5. Video Game Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint05_VideoGameAnalysis)
 Analysis of video game market to find patterns that determine a video game’s success. Identify patterns in historical game sales data, analyze metrics for each video game platform, and conduct statistical hypothesis testing to find potential big winners and plan advertising campaigns.
 
 **Highlights:**
  * Top-5 genres and top-5 platforms were identified.
  * Hypothesis on user ratings on genres, and user ratings on platforms were tested.
 
-## [6. Ride Sharing Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/RideSharingAnalysis)
+## [6. Ride Sharing Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint06_RideSharingAnalysis)
 Exploratory data analysis for a ride share app. Understand passenger preferences and the impact of external factors on rides. Study a database, analyze data from competitors, and test hypothesis about the impact of weather on ride frequency. Test the hypothesis: "The average duration of rides from the Loop to O'Hare International Airport changes on rainy Saturdays."
 
 **Highlights:**
  * Standard deviation for good and bad weather were very different, hence I used Welch's test for hypothesis.
  * Rejected the Null Hypothesis: The average duration of rides from the Loop to O'Hare International Airport is the same as on rainy - Saturdays.
 
-## [7. Mobile Carrier Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/MobilePlans)
+## [7. Mobile Carrier Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint07_MobilePlans)
 Mobile carrier Megaline has found out that many of their subscribers use legacy plans. They want to develop a model that would analyze subscribers' behavior and recommend one of Megaline's newer plans: Smart or Ultra. You have access to behavior data about subscribers who have already switched to the new plans (from the project for the Statistical Data Analysis course). For this classification task, you need to develop a model that will pick the right plan. Since you’ve already performed the data preprocessing step, you can move straight to creating the model. Develop a machine learning model with the highest possible accuracy. In this project, the threshold for accuracy is 0.75. Check the accuracy using the test dataset.
 
 **Highlights:**
@@ -73,7 +73,7 @@ Mobile carrier Megaline has found out that many of their subscribers use legacy 
 
 **Metrics:** Achieved Accuracy score of 79% using RandomForestRegression.
  
-## [8. Bank Customer Churn](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/BankCustomerChurn)
+## [8. Bank Customer Churn](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint08_BankCustomerChurn)
 Mobile carrier Megaline has found out that many of their subscribers use legacy plans. They want to develop a model that would analyze subscribers' behavior and recommend one of Megaline's newer plans: Smart or Ultra. You have access to behavior data about subscribers who have already switched to the new plans (from the project for the Statistical Data Analysis course). For this classification task, you need to develop a model that will pick the right plan. Since you’ve already performed the data preprocessing step, you can move straight to creating the model. Develop a model with the highest possible accuracy. In this project, the threshold for accuracy is 0.75. Check the accuracy using the test dataset.
 
 **Highlights:**
