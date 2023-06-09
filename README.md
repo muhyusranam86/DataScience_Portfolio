@@ -83,7 +83,7 @@ Mobile carrier Megaline has found out that many of their subscribers use legacy 
 
 **Metrics:** F1 score: 0.62, akurasi_score: 0,81, auc_roc: 0.77 for Churn prediction.
 
-## [9. Oil Well Region Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/OilWellRegionModel)
+## [9. Oil Well Region Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint09_OilWellRegionModel)
 You work for the OilyGiant mining company. Your task is to find the best place for a new well. Steps to choose the location: 
 1) Collect the oil well parameters in the selected region: oil quality and volume of reserves. 
 2) Build a model for predicting the volume of reserves in the new wells; 
@@ -95,12 +95,12 @@ You have data on oil samples from three regions. Parameters of each oil well in 
  * Scaled the data using StandardScaler().
  * Bootstrapping was done with 1000 samples. Region with best R2 score and best confidence interval was selected.
 
-## [10. Gold Recovery Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/GoldRecoveryModel)
+## [10. Gold Recovery Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint10_GoldRecoveryModel)
 Build a machine learning model to predict the amount of gold recovered from the gold ore for the purpose of optimizing production and eliminating unprofitable parameters. Various Regression models were evaluated.
 
 **Metrics:** SMAPE of 9.5% achieved for RidgeRegression
 
-## [11. Insurance Company Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/InsuranceCompany)
+## [11. Insurance Company Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint11_InsuranceCompany)
 For insurance benefits, develop a data transforming algorithm for data obfuscation that would make it harder to recover personal information from the transformed data. Ensure that data obfuscation does not impact the quality of the machine learning model. Provide theoretical proof that quality of the model remains the same after transformation.
 
 **Highlights:**
@@ -108,7 +108,7 @@ For insurance benefits, develop a data transforming algorithm for data obfuscati
 * Implemented Data masking using random transform matrix.
 * Evaluated models on unchanged and masked data to ensure the model quality remained same.
 
-## [12. Car Sales Market Value](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/CarSalesMarketValue)
+## [12. Car Sales Market Value](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint12_CarSalesMarketValue)
 Determine the market value of a used car using historical car data. Identify the quality and speed of prediction for various models.
 
 **Highlights:**
@@ -117,7 +117,7 @@ Determine the market value of a used car using historical car data. Identify the
 
 **Metrics:** Lowest RMSE of 1628.xx using XGBoost with GridSearchCV
 
-## [13. Taxi Orders Hourly Forecast](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/TaxiOrdersForecast)
+## [13. Taxi Orders Hourly Forecast](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint13_TaxiOrdersForecast)
 Time Series project. Use historical data on taxi orders at airports to create a model that predicts the number of taxi orders for the next hour.
 
 **Highlights:**
