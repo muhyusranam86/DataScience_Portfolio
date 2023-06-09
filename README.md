@@ -12,14 +12,14 @@ Following are the highlights of the projects:
 
 |Projects (1-8)|Projects (9-16)|
 | --- | --- |
-| [1. Yandex Music Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint01_YandexMusicProject) | [9. Oil Well Region Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/OilWellRegionModel) |
-| [2. Bank Loan Customers Report](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint02_BanksLoanCustomerReport)	| [10. Gold Recovery Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/GoldRecoveryModel) |
-| [3. Car Sales Ads](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint03_CarSalesAdsense)	| [11. Insurance Company Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/InsuranceCompany) |
-| [4. Telecom Company Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint04_TelecomCompanyPlans) | [12. Car Sales Market Value](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/CarSalesMarketValue) |
-| [5. Video Game Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint05_VideoGameAnalysis) | [13. Taxi Orders Forecast](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/TaxiOrdersForecast) |
-| [6. Ride Sharing Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/RideSharingAnalysis) | [14. Movie Reviews Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint14_MovieReviewsAnalysis) |
-| [7. Mobile Carrier Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/MobilePlans) | [15. Computer Vision Age Detection](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint15_ComputerVisionAgeDetection) |
-| [8. Bank Customer Churn](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/BankCustomerChurn) | [16. ] |
+| [1. Yandex Music Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint01_YandexMusicProject) | [9. Oil Well Region Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint09_OilWellRegionModel) |
+| [2. Bank Loan Customers Report](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint02_BanksLoanCustomerReport)	| [10. Gold Recovery Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint10_GoldRecoveryModel) |
+| [3. Car Sales Ads](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint03_CarSalesAdsense)	| [11. Insurance Company Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint11_InsuranceCompany) |
+| [4. Telecom Company Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint04_TelecomCompanyPlans) | [12. Car Sales Market Value](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint12_CarSalesMarketValue) |
+| [5. Video Game Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint05_VideoGameAnalysis) | [13. Taxi Orders Forecast](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint13_TaxiOrdersForecast) |
+| [6. Ride Sharing Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint06_RideSharingAnalysis) | [14. Movie Reviews Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint14_MovieReviewsAnalysis) |
+| [7. Mobile Carrier Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint07_MobilePlans) | [15. Computer Vision Age Detection](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint15_ComputerVisionAgeDetection) |
+| [8. Bank Customer Churn](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint08_BankCustomerChurn) | [16. ] |
 
 
 # B. Details on My Data Science projects
