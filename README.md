@@ -17,8 +17,8 @@ Following are the highlights of the projects:
 | [3. Car Sales Ads](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint03_CarSalesAdsense)	| [11. Insurance Company Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/InsuranceCompany) |
 | [4. Telecom Company Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/TelecomCompanyPlans) | [12. Car Sales Market Value](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/CarSalesMarketValue) |
 | [5. Video Game Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/VideoGameAnalysis) | [13. Taxi Orders Forecast](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/TaxiOrdersForecast) |
-| [6. Ride Sharing Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/RideSharingAnalysis) | [14. Movie Reviews Sentiment Analysis]() |
-| [7. Mobile Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/MobilePlans) | [15. Computer Vision Age Detection]() |
+| [6. Ride Sharing Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/RideSharingAnalysis) | [14. Movie Reviews Sentiment Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint14_MovieReviewsAnalysis) |
+| [7. Mobile Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/MobilePlans) | [15. Computer Vision Age Detection](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint15_ComputerVisionAgeDetection) |
 | [8. Bank Customer Churn](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/BankCustomerChurn) | [16. ] |
 
 
@@ -125,7 +125,7 @@ Time Series project. Use historical data on taxi orders at airports to create a 
 
 **Metrics:** Minimum RMSE on test dataset was 42.XX using CatBoostRegressor, lower than the rmse_test threshold of 48.
 
-## [14. Movie Reviews Sentiment Analysis]()
+## [14. Movie Reviews Sentiment Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint14_MovieReviewsAnalysis)
 
 Build a machine learning model to automatically detect negative reviews for a system used to filter and categorize movie reviews. Used the dataset of IMDB movie reviews with polarity labelling to build a model for classifying positive and negative reviews.
 
@@ -136,7 +136,7 @@ Build a machine learning model to automatically detect negative reviews for a sy
 - F1 score of 0.88 with TF-IDF, LogisticRegression and also with NLTK, TF-IDF, LogisticRegression.
 - BERT classification classified the text very strongly as compared to any other Model.
 
-## [15. Computer Vision Age Detection]()
+## [15. Computer Vision Age Detection](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint15_ComputerVisionAgeDetection)
 
 Build Machine Learning models for computer vision, for automatic verification of the age of a customer at a checkout counter in the Supermarket . Cameras at the checkout counter are triggered to take the customer photo when customer is buying alcohol.  Train, evaluate and identify the best model. 
 
