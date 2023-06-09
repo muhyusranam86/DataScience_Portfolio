@@ -142,6 +142,6 @@ Build Machine Learning models for computer vision, for automatic verification of
 
 **Highlights:** 
 - Key Libraries used: PIL, tensorflow. 
-- I ran the training model for 5 epochs. Images were augmented for horizontal flipping.
+- Conducted the training model for 5 epochs. Images were augmented for horizontal flipping.
 
-**Metrics:** The final test MAE was 7.3382 at epoch #5. Best MAE was at epoch #4, MAE of 6.3124
+**Metrics:** The MAE final test was 6.1101 at epoch #5 as well as being the best MAE value
