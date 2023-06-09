@@ -15,10 +15,10 @@ Following are the highlights of the projects:
 | [1. Yandex Music Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint01_YandexMusicProject) | [9. Oil Well Region Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/OilWellRegionModel) |
 | [2. Bank Loan Customers Report](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint02_BanksLoanCustomerReport)	| [10. Gold Recovery Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/GoldRecoveryModel) |
 | [3. Car Sales Ads](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint03_CarSalesAdsense)	| [11. Insurance Company Model](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/InsuranceCompany) |
-| [4. Telecom Company Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/TelecomCompanyPlans) | [12. Car Sales Market Value](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/CarSalesMarketValue) |
-| [5. Video Game Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/VideoGameAnalysis) | [13. Taxi Orders Forecast](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/TaxiOrdersForecast) |
+| [4. Telecom Company Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint04_TelecomCompanyPlans) | [12. Car Sales Market Value](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/CarSalesMarketValue) |
+| [5. Video Game Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint05_VideoGameAnalysis) | [13. Taxi Orders Forecast](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/TaxiOrdersForecast) |
 | [6. Ride Sharing Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/RideSharingAnalysis) | [14. Movie Reviews Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint14_MovieReviewsAnalysis) |
-| [7. Mobile Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/MobilePlans) | [15. Computer Vision Age Detection](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint15_ComputerVisionAgeDetection) |
+| [7. Mobile Carrier Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/MobilePlans) | [15. Computer Vision Age Detection](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint15_ComputerVisionAgeDetection) |
 | [8. Bank Customer Churn](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/BankCustomerChurn) | [16. ] |
 
 
@@ -42,7 +42,7 @@ You're an analyst at Crankshaft List. Hundreds of free advertisements for vehicl
 **Highlights:**
  * Exploratory Data Analysis: Checking data quality, Evaluating and modifying data structures, Analyzing categorical data, Looking for relationships and patterns, Summarizing data
 
-## [4. Telecom Company Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/TelecomCompanyPlans)
+## [4. Telecom Company Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint04_TelecomCompanyPlans)
 You work as an analyst for the telecom operator Megaline. The company offers its clients two prepaid plans, Surf and Ultimate. The commercial department wants to know which of the plans brings in more revenue in order to adjust the advertising budget. You are going to carry out a preliminary analysis of the plans based on a relatively small client selection. You'll have the data on 500 Megaline clients: who the clients are, where they're from, which plan they use, and the number of calls they made and text messages they sent in 2018. Your job is to analyze clients' behavior and determine which prepaid plan brings in more revenue.
 
 **Highlights:**
@@ -65,7 +65,7 @@ Exploratory data analysis for a ride share app. Understand passenger preferences
  * Standard deviation for good and bad weather were very different, hence I used Welch's test for hypothesis.
  * Rejected the Null Hypothesis: The average duration of rides from the Loop to O'Hare International Airport is the same as on rainy - Saturdays.
 
-## [7. Mobile Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/MobilePlans)
+## [7. Mobile Carrier Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/MobilePlans)
 Mobile carrier Megaline has found out that many of their subscribers use legacy plans. They want to develop a model that would analyze subscribers' behavior and recommend one of Megaline's newer plans: Smart or Ultra. You have access to behavior data about subscribers who have already switched to the new plans (from the project for the Statistical Data Analysis course). For this classification task, you need to develop a model that will pick the right plan. Since you’ve already performed the data preprocessing step, you can move straight to creating the model. Develop a machine learning model with the highest possible accuracy. In this project, the threshold for accuracy is 0.75. Check the accuracy using the test dataset.
 
 **Highlights:**
