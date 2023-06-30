@@ -1,5 +1,5 @@
 # A. Introduction
-I am a student in the Data Science Professional Training program at TripleTen Indonesia. During this program, I successfully completed several projects as part of the TripleTen Indonesia Data Science Professional Training program.
+I am a graduate of the Data Science Professional Training program at TripleTen Indonesia. During this program, I successfully completed several projects as part of the TripleTen Indonesia Data Science Professional Training program.
 
 Following are the highlights of the projects:
 
@@ -143,3 +143,12 @@ Build Machine Learning models for computer vision for automatic verification of 
 - Conducted the training model for 5 epochs. Images were augmented for horizontal flipping.
 
 **Metrics:** The MAE final test was 6.1101 at epoch #5 as well as being the best MAE value
+
+## [16. Telecom Client Churn Prediction].()
+Forecast the churn of clients for a telecom operator Interconnect company. Collect the necessary information to assist the marketing department in figuring out different ways of retaining clients.
+
+**Highlights:**
+- Evaluated Various classification models including Gradient Boosting models - XGBClassifier, CatBoostClassifier, LGBMClassifier.
+- Used Cross-validation using GridSearchCV.
+
+**Metrics:** 
