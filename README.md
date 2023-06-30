@@ -19,7 +19,7 @@ Following are the highlights of the projects:
 | [5. Video Game Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint05_VideoGameAnalysis) | [13. Taxi Orders Forecast](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint13_TaxiOrdersForecast) |
 | [6. Ride Sharing Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint06_RideSharingAnalysis) | [14. Movie Reviews Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint14_MovieReviewsAnalysis) |
 | [7. Mobile Carrier Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint07_MobilePlans) | [15. Computer Vision Age Detection](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint15_ComputerVisionAgeDetection) |
-| [8. Bank Customer Churn](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint08_BankCustomerChurn) | [16. Telecom Client Churn Prediction] |
+| [8. Bank Customer Churn](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint08_BankCustomerChurn) | [16. Telecom Client Churn Prediction](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint16_TelecomClientChurnPrediction) |
 
 
 # B. Details on My Data Science projects
@@ -144,11 +144,11 @@ Build Machine Learning models for computer vision for automatic verification of 
 
 **Metrics:** The MAE final test was 6.1101 at epoch #5 as well as being the best MAE value
 
-## [16. Telecom Client Churn Prediction].()
+## [16. Telecom Client Churn Prediction](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint16_TelecomClientChurnPrediction)
 Forecast the churn of clients for a telecom operator Interconnect company. Collect the necessary information to assist the marketing department in figuring out different ways of retaining clients.
 
 **Highlights:**
 - Evaluated Various classification models including Gradient Boosting models - XGBClassifier, CatBoostClassifier, LGBMClassifier.
 - Used Cross-validation using GridSearchCV.
 
-**Metrics:** 
+**Metrics:** AUC-ROC of 0.909, Accuracy of 0.867
