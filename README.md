@@ -19,7 +19,7 @@ Following are the highlights of the projects:
 | [5. Video Game Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint05_VideoGameAnalysis) | [13. Taxi Orders Forecast](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint13_TaxiOrdersForecast) |
 | [6. Ride Sharing Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint06_RideSharingAnalysis) | [14. Movie Reviews Analysis](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint14_MovieReviewsAnalysis) |
 | [7. Mobile Carrier Plans](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint07_MobilePlans) | [15. Computer Vision Age Detection](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint15_ComputerVisionAgeDetection) |
-| [8. Bank Customer Churn](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint08_BankCustomerChurn) | [16. ] |
+| [8. Bank Customer Churn](https://github.com/muhyusranam86/DataScience_Portfolio/tree/main/Sprint08_BankCustomerChurn) | [16. Telecom Client Churn Prediction] |
 
 
 # B. Details on My Data Science projects
