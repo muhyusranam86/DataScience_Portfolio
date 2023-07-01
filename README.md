@@ -1,5 +1,5 @@
 # A. Introduction
-I am a graduate of the Data Science Professional Training program at TripleTen Indonesia. During this program, I successfully completed several projects as part of the TripleTen Indonesia Data Science Professional Training program.
+I am a graduate of the Data Science Professional Training program at TripleTen Indonesia. During this program, I successfully completed several projects as part of the TripleTen Indonesia Data Science Professional Training program. [Certificate of Completion]()
 
 Following are the highlights of the projects:
 
